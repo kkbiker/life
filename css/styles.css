@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+}
+
+/* HEADER */
+
+header img {
+  width: 100%;
+}
+
+header h1 {
+  margin: 0;
+  text-align: center;
+}
+
+/* MAIN */
+.kenta {
+  /* background: #ff8b8b; */
+  display: flex;
+}
+
+.kenta h1 {
+  margin: 0 10px;
+  text-align: center;
+  border-radius: 50%;
+  background: rgb(73, 243, 88);
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  font-size: 20px;
+}
+
+.kenta p {
+  background: #fff;
+  margin: 0;
+  align-self: center;
+  padding:0 4px;
+  height: 50px;
+  line-height: 50px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px;
+}
+
+.kyokyo {
+  /* background: rgba(230, 233, 82, 0.808); */
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.kyokyo h1 {
+  margin: 0 10px;
+  text-align: center;
+  border-radius: 50%;
+  background: rgb(253, 241, 70);
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  font-size: 20px;
+}
+
+.kyokyo p {
+  background: #fff;
+  margin: 0;
+  align-self: center;
+  padding:0 4px;
+  height: 50px;
+  line-height: 50px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px;
+}
